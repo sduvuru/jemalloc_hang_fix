@@ -183,6 +183,7 @@ TESTS_UNIT := \
 	$(srcroot)test/unit/SFMT.c \
 	$(srcroot)test/unit/size_classes.c \
 	$(srcroot)test/unit/smoothstep.c \
+	$(srcroot)test/unit/spin.c \
 	$(srcroot)test/unit/stats.c \
 	$(srcroot)test/unit/ticker.c \
 	$(srcroot)test/unit/nstime.c \
